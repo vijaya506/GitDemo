@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-23T01:57:11 AEST" name="Suite" finished-at="2020-09-23T01:57:11 AEST" duration-ms="69">
+    <groups>
+    </groups>
+    <test started-at="2020-09-23T01:57:11 AEST" name="Test" finished-at="2020-09-23T01:57:11 AEST" duration-ms="69">
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method signature="AppiumAutomation()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@15b204a1]" started-at="2020-09-23T01:57:11 AEST" name="AppiumAutomation" finished-at="2020-09-23T01:57:11 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumAutomation -->
+        <test-method signature="deleteAppiumAutomation()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@15b204a1]" started-at="2020-09-23T01:57:11 AEST" name="deleteAppiumAutomation" finished-at="2020-09-23T01:57:11 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAppiumAutomation -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+      <class name="qaclickacademy.Mavenjava.RESTAPITest">
+        <test-method signature="RestAPIAutomation()[pri:0, instance:qaclickacademy.Mavenjava.RESTAPITest@124c278f]" started-at="2020-09-23T01:57:11 AEST" name="RestAPIAutomation" finished-at="2020-09-23T01:57:11 AEST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPIAutomation -->
+        <test-method signature="deleteAPIAutomation()[pri:0, instance:qaclickacademy.Mavenjava.RESTAPITest@124c278f]" started-at="2020-09-23T01:57:11 AEST" name="deleteAPIAutomation" finished-at="2020-09-23T01:57:11 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAPIAutomation -->
+      </class> <!-- qaclickacademy.Mavenjava.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
